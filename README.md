@@ -1,4 +1,7 @@
-this is my first app 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Chey
+
+this is my first app
+
 
 py2app is a Python setuptools command which will allow
 you to make standalone Mac OS X application bundles
